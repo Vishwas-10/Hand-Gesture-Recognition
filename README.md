@@ -1,4 +1,4 @@
-# HandGestRecog_CNN
+# Hand-Gesture-Recognition
 A Computer Programme that will Recognize Hand Gestures in real time using CNN, Having RealLife and Unique Dataset of Images. A good use of ML at beginner level. This model can be easily synced with the supporting Technologies such as Arduino boards and Raspberry Pi to Automate various things at home or work making life easier.
 This is Application of Computer Vision Models using popular Machine Learning(ML) methods. In this Beginner level Project we have used Sequential API of CNN. This Code will really work faster on GPU's as compared to CPU's.
 To let this Model work Perfectly Fine in your Local Machine, Just Download the Code and Dataset file in your main Working Directory and Run the Programme; after the programme Runs Successfully, Two Windows will be Launched along with your system Camera, one window will be of ROI, wheras other will show you RGB Color Capture. Then You can Integrate and Synchronize with Technologies such RaspberryPi Boards and Can Automate Tasks according to your need.
